@@ -1,9 +1,5 @@
-### Hi there 👋
+### Oi! Eu sou o Lucas Arruda Alves 👋
 
-
-**Lucas-Arruda-Alves/Lucas-arruda-alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Em busca da primeira vaga como dev FullStack ou Pentester 
 - 🌱 Estudando Engenharia da computação e programação
